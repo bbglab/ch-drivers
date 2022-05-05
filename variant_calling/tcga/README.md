@@ -1,0 +1,2 @@
+In order to run this you need a TOKEN with granted access to TCGA. Additionally, you need pandas, samtools, python3, the gdc-client and Mosaic Forecast installed in the system (we recommend a conda installation or a dockerized environment). Please refer to the script for more details on other required files.
+The script is run at the level of sample.  

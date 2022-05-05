@@ -1,0 +1,76 @@
+SYMBOL	METHODS	QVALUE_COMBINATION	TIER	ROLE	CGC_GENE	TIER_CGC	CGC_CANCER_GENE	SIGNATURE9	WARNING_EXPRESSION	WARNING_GERMLINE	SAMPLES_3MUTS	OR_WARNING	KNOWN_ARTIFACT	NUM_PAPERS	FILTER	Expression_Healthy	COHORT
+ASXL1	oncodrivefml,dndscv,cbase,mutpanning	3.8291894295884784e-26	1	LoF	True	1.0	False	0.1333333333333333	False	False	0.0	False	False	4.0	PASS	845.0	OTHER_WGS_HMF_FULL
+ATM		0.0047927392036396	2	Act	True	1.0	True	0.0	False	False	0.0	False	False	28.0	PASS	1216.0	OTHER_WGS_HMF_FULL
+BAX		0.0103674584095196	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	6.0	PASS	109.0	OTHER_WGS_HMF_FULL
+DNM2	oncodrivefml	0.0011327696632313	2	Act	True	1.0	False	0.3333333333333333	False	False	0.0	False	False	2.0	PASS	1049.0	OTHER_WGS_HMF_FULL
+DNMT3A	oncodrivefml,oncodriveclustl,dndscv,smregions,cbase,mutpanning,hotmaps	1.876412293928066e-53	1	LoF	True	1.0	True	0.0384615384615384	False	False	0.0	False	False	28.0	PASS	1516.0	OTHER_WGS_HMF_FULL
+GNB1	smregions,hotmaps	1.1395866916885844e-05	3	Act	False		False	0.2	False	False	0.0	False	False	0.0	Lack of literature evidence	5640.0	OTHER_WGS_HMF_FULL
+JAK2	smregions,mutpanning,hotmaps	5.3415600087059865e-18	1	Act	True	1.0	True	0.0	False	False	0.0	False	False	40.0	PASS	263.0	OTHER_WGS_HMF_FULL
+KDM5C	hotmaps	0.0056255553276097	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	5.0	PASS	1265.0	OTHER_WGS_HMF_FULL
+KMT2C	dndscv	0.0008947718702294	2	LoF	True	1.0	False	0.1666666666666666	False	False	0.0	False	False	21.0	PASS	3010.0	OTHER_WGS_HMF_FULL
+MYO5A	cbase	0.0015368082757292	2	LoF	True	1.0	False	0.1666666666666666	False	False	0.0	False	False	0.0	PASS	1152.0	OTHER_WGS_HMF_FULL
+NOTCH1	smregions	0.0076193521899955	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	198.0	PASS	1120.0	OTHER_WGS_HMF_FULL
+PPM1D	oncodrivefml,dndscv,cbase,mutpanning	3.8931701127424195e-30	1	LoF	True	1.0	False	0.0833333333333333	False	False	0.0	False	False	20.0	PASS	303.0	OTHER_WGS_HMF_FULL
+TET2	oncodrivefml,dndscv,cbase,mutpanning	4.364561623809647e-40	1	LoF	True	1.0	False	0.09375	False	False	0.0	False	False	32.0	PASS	3343.0	OTHER_WGS_HMF_FULL
+TFRC		0.1392245661664244	2	Act	True	2.0	False	0.0	False	False	0.0	False	False	2.0	PASS	3445.0	OTHER_WGS_HMF_FULL
+TP53	oncodrivefml,cbase	9.28005597806626e-10	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	1242.0	PASS	5330.0	OTHER_WGS_HMF_FULL
+ARID2		0.0003321023148891	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	15.0	PASS	627.0	OTHER_WGS_HMF_MOSAIC
+ASXL1	oncodrivefml,dndscv,cbase,mutpanning	7.1996412921167265e-28	1	LoF	True	1.0	False	0.1	False	False	0.0	False	False	4.0	PASS	845.0	OTHER_WGS_HMF_MOSAIC
+ATE1	oncodriveclustl,smregions	1.286294187236828e-05	1	Act	False		False	0.0	False	False	0.0	False	False	5.0	PASS	486.0	OTHER_WGS_HMF_MOSAIC
+ATM		4.152279967782961e-05	1	Act	True	1.0	True	0.0	False	False	0.0	False	False	28.0	PASS	1216.0	OTHER_WGS_HMF_MOSAIC
+CHEK2		0.000408417489606	2	Act	True	1.0	False	0.2	False	False	0.0	False	False	4.0	PASS	298.0	OTHER_WGS_HMF_MOSAIC
+DNMT3A	oncodrivefml,oncodriveclustl,dndscv,smregions,cbase,mutpanning,hotmaps	6.342974417426611e-50	1	LoF	True	1.0	True	0.0454545454545454	False	False	0.0	False	False	28.0	PASS	1516.0	OTHER_WGS_HMF_MOSAIC
+FOXP1		0.0150170172937972	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	54.0	PASS	3281.0	OTHER_WGS_HMF_MOSAIC
+JAK2	oncodriveclustl,smregions,mutpanning,hotmaps	2.7138975842413937e-18	1	Act	True	1.0	True	0.0	False	False	0.0	False	False	40.0	PASS	263.0	OTHER_WGS_HMF_MOSAIC
+MYO5A	cbase	4.875489333152618e-07	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	0.0	PASS	1152.0	OTHER_WGS_HMF_MOSAIC
+PPM1D	oncodrivefml,oncodriveclustl,dndscv,cbase,mutpanning	4.895601759014901e-32	1	LoF	True	1.0	False	0.1111111111111111	False	False	0.0	False	False	20.0	PASS	303.0	OTHER_WGS_HMF_MOSAIC
+PTPRD		0.0481407568535644	2	Act	True	2.0	False	0.0	False	False	0.0	False	False	34.0	PASS	341.0	OTHER_WGS_HMF_MOSAIC
+RET	oncodrivefml	1.0231706952202577e-07	1	LoF	True	1.0	False	0.25	False	False	0.0	False	False	1393.0	PASS	211.0	OTHER_WGS_HMF_MOSAIC
+SF3B1	oncodriveclustl	0.0031873687336505	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	5.0	PASS	4631.0	OTHER_WGS_HMF_MOSAIC
+TET2	oncodrivefml,dndscv,cbase,mutpanning	1.1146920243651447e-28	1	LoF	True	1.0	False	0.0555555555555555	False	False	0.0	False	False	32.0	PASS	3343.0	OTHER_WGS_HMF_MOSAIC
+TP53		4.7077208613286025e-08	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	1242.0	PASS	5330.0	OTHER_WGS_HMF_MOSAIC
+TP63		0.0018505061353925	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	30.0	PASS	218.0	OTHER_WGS_HMF_MOSAIC
+APC		0.0038654214815126	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	294.0	PASS	534.0	OTHER_WGS_HMF_MUTECT
+ARID2		0.0022278798998175	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	15.0	PASS	627.0	OTHER_WGS_HMF_MUTECT
+ASXL1	cbase	0.0001732325850425	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	4.0	PASS	845.0	OTHER_WGS_HMF_MUTECT
+ATM		4.4798084974099624e-08	1	Act	True	1.0	True	0.0	False	False	0.0	False	False	28.0	PASS	1216.0	OTHER_WGS_HMF_MUTECT
+CUX1		0.0001152716383563	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	4.0	PASS	4752.0	OTHER_WGS_HMF_MUTECT
+DNMT3A	oncodrivefml,oncodriveclustl,dndscv,smregions,cbase,hotmaps	1.4867958447372006e-34	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	28.0	PASS	1516.0	OTHER_WGS_HMF_MUTECT
+PPM1D	oncodrivefml,dndscv,cbase	2.825995321718515e-20	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	20.0	PASS	303.0	OTHER_WGS_HMF_MUTECT
+SF3B1	oncodriveclustl	1.9422014527957187e-05	1	Act	True	1.0	False	0.0	False	False	0.0	False	False	5.0	PASS	4631.0	OTHER_WGS_HMF_MUTECT
+SMC1A		0.0301907958157322	2	Act	True	2.0	True	0.0	False	False	0.0	False	False	7.0	PASS	7884.0	OTHER_WGS_HMF_MUTECT
+TET2	oncodrivefml,dndscv,cbase	5.078697958799141e-09	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	32.0	PASS	3343.0	OTHER_WGS_HMF_MUTECT
+TP53	oncodrivefml,dndscv,cbase	1.1959932911583994e-11	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	1242.0	PASS	5330.0	OTHER_WGS_HMF_MUTECT
+ABL2	cbase	2.1226609723658237e-07	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	4.0	PASS	1217.0	OTHER_WXS_TCGA_MOSAIC
+AFF3		0.0007580680880563	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	2.0	PASS	2592.0	OTHER_WXS_TCGA_MOSAIC
+ASXL1	oncodrivefml,dndscv,cbase,mutpanning	9.581500386300841e-23	1	LoF	True	1.0	False	0.0217391304347826	False	False	0.0	False	False	4.0	PASS	845.0	OTHER_WXS_TCGA_MOSAIC
+ATM	hotmaps	7.002641883685777e-05	2	Act	True	1.0	True	0.0133333333333333	False	False	0.0	False	False	28.0	PASS	1216.0	OTHER_WXS_TCGA_MOSAIC
+CHEK2		1.4056080533724682e-05	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	4.0	PASS	298.0	OTHER_WXS_TCGA_MOSAIC
+DNMT3A	oncodrivefml,dndscv,smregions,cbase,mutpanning,hotmaps	2.911825304750853e-36	1	LoF	True	1.0	True	0.0	False	False	0.0	False	False	28.0	PASS	1516.0	OTHER_WXS_TCGA_MOSAIC
+GNAS	mutpanning,hotmaps	5.767584100638131e-09	1	Act	True	1.0	False	0.0	False	False	0.0	False	False	20.0	PASS	12620.0	OTHER_WXS_TCGA_MOSAIC
+GNB1	smregions,mutpanning,hotmaps	5.767584100638131e-09	1	Act	False		False	0.0	False	False	0.0	False	False	0.0	Lack of literature evidence	5640.0	OTHER_WXS_TCGA_MOSAIC
+JAK2	oncodriveclustl,mutpanning,hotmaps	4.173857871291576e-09	1	Act	True	1.0	True	0.0	False	False	0.0	False	False	40.0	PASS	263.0	OTHER_WXS_TCGA_MOSAIC
+KMT2C	smregions	0.0144255116709155	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	21.0	PASS	3010.0	OTHER_WXS_TCGA_MOSAIC
+LZTR1		0.0007177980497616	2	Act	True	1.0	False	0.0	False	True	0.0	False	False	2.0	PASS	216.0	OTHER_WXS_TCGA_MOSAIC
+PPFIBP1		0.129443334803372	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	0.0	PASS	219.0	OTHER_WXS_TCGA_MOSAIC
+PPM1D	oncodrivefml,dndscv,cbase,mutpanning	8.387307153093157e-25	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	20.0	PASS	303.0	OTHER_WXS_TCGA_MOSAIC
+SRSF2	mutpanning	0.0020536112007587	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	2.0	PASS	2517.0	OTHER_WXS_TCGA_MOSAIC
+TET2	dndscv,cbase,mutpanning	1.2449454405360802e-07	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	32.0	PASS	3343.0	OTHER_WXS_TCGA_MOSAIC
+TP53	smregions,hotmaps	4.586330791867618e-11	1	Act	True	1.0	True	0.0476190476190476	False	False	0.0	False	False	1242.0	PASS	5330.0	OTHER_WXS_TCGA_MOSAIC
+AFF3	oncodrivefml	5.0792137384724735e-05	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	2.0	PASS	2592.0	OTHER_WXS_TCGA_FULL
+ASXL1	oncodrivefml,dndscv,cbase,mutpanning	2.2572832164379628e-39	1	LoF	True	1.0	False	0.0129870129870129	False	False	0.0	False	False	4.0	PASS	845.0	OTHER_WXS_TCGA_FULL
+ATM	hotmaps	0.0001115419111103	2	Act	True	1.0	True	0.0227272727272727	False	False	1.0	False	False	28.0	PASS	1216.0	OTHER_WXS_TCGA_FULL
+CHEK2		2.166743494647285e-07	2	LoF	True	1.0	False	0.0	False	False	0.0	False	False	4.0	PASS	298.0	OTHER_WXS_TCGA_FULL
+DNMT3A	oncodrivefml,dndscv,smregions,cbase,mutpanning,hotmaps	5.0083817614354006e-48	1	LoF	True	1.0	True	0.0085470085470085	False	False	0.0	False	False	28.0	PASS	1516.0	OTHER_WXS_TCGA_FULL
+ERCC2	hotmaps	3.0584377444408403e-06	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	2.0	PASS	368.0	OTHER_WXS_TCGA_FULL
+GNAS	hotmaps	0.0026399717119235	2	Act	True	1.0	False	0.0	False	False	1.0	False	False	20.0	PASS	12620.0	OTHER_WXS_TCGA_FULL
+GNB1	smregions,mutpanning,hotmaps	4.970265131535128e-08	3	Act	False		False	0.0	False	False	0.0	False	False	0.0	Lack of literature evidence	5640.0	OTHER_WXS_TCGA_FULL
+JAK2	oncodriveclustl,smregions,mutpanning,hotmaps	3.2843271124219924e-09	1	Act	True	1.0	True	0.0169491525423728	False	False	0.0	False	False	40.0	PASS	263.0	OTHER_WXS_TCGA_FULL
+MYD88	hotmaps	0.02651305893029	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	14.0	PASS	1748.0	OTHER_WXS_TCGA_FULL
+PABPC1	mutpanning,hotmaps	0.0001018740427181	2	Act	True	2.0	False	0.0	False	False	0.0	False	False	5.0	PASS	15989.0	OTHER_WXS_TCGA_FULL
+PPM1D	oncodrivefml,dndscv,cbase	1.5009777983734597e-33	1	LoF	True	1.0	False	0.0	False	False	0.0	False	False	20.0	PASS	303.0	OTHER_WXS_TCGA_FULL
+SDHAF2	mutpanning,hotmaps	5.316494191949984e-06	2	Act	True	1.0	False	0.2857142857142857	False	False	0.0	False	False	1.0	PASS	136.0	OTHER_WXS_TCGA_FULL
+SRSF2	mutpanning	7.18797476210271e-06	2	Act	True	1.0	False	0.0	False	False	0.0	False	False	2.0	PASS	2517.0	OTHER_WXS_TCGA_FULL
+STAT3	smregions	0.0001380944347071	2	ambiguous	True	1.0	False	0.0	False	False	0.0	False	False	172.0	PASS	1415.0	OTHER_WXS_TCGA_FULL
+TET2	oncodrivefml,dndscv,cbase,mutpanning	1.5246653368314992e-40	1	LoF	True	1.0	False	0.0384615384615384	False	False	0.0	False	False	32.0	PASS	3343.0	OTHER_WXS_TCGA_FULL
+TP53	oncodrivefml,dndscv,smregions,cbase,hotmaps	2.2591851127455133e-16	1	Act	True	1.0	True	0.0303030303030303	False	False	0.0	False	False	1242.0	PASS	5330.0	OTHER_WXS_TCGA_FULL

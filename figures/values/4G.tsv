@@ -1,0 +1,5 @@
+CH mutations_identified by_germline calling_(known CH genes)	0.038451049904554134
+CH mutations_identified by_reverse calling_(known CH genes)	0.026997545677665668
+CH mutations_identified by_reverse calling_(all CH genes)	0.03190619034633215
+CH mutations_identified by_reverse calling_(IMPACT CH genes)	0.017180256340332697
+Samples without_CH mutations_with trace of CH	0.15789473684210525
